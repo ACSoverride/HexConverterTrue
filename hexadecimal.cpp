@@ -2,7 +2,6 @@
 #include <cmath>
 #include <vector>
 #include <cctype>
-//Author: Matthew Shapiro
 //Class : CSI 140-01
 // Assignment : PA x or Lab x
 // Date Assigned : Date - 9/26/2022
